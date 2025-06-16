@@ -1,5 +1,5 @@
 <?php
- namespace HolaMundoMultilenguaje;
+ namespace App;
  class Saludo
  {
     private $saludos;
